@@ -1,1 +1,1 @@
-<!-- Uploading "Screenshot 2025-07-21 at 15-23-34 whitepaper_iot.jpg (JPEG Image 1920 × 624 pixels) — Scaled (71%).png"... -->
+<img width="1366" height="443" alt="Image" src="https://github.com/user-attachments/assets/249d0017-f134-4925-9f80-73c051e26f55" />

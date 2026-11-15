@@ -1,0 +1,15 @@
+# Python bytecode and notebook checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and credentials
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Generated local logs and LangGraph development state
+*.log
+.langgraph_api/

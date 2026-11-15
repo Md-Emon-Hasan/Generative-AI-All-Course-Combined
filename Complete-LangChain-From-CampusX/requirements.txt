@@ -1,0 +1,27 @@
+# Shared dependencies used across the Python and notebook lessons.
+# Install additional packages only when a specific lesson requires them.
+langchain
+langchain-classic
+langchain-community
+langchain-core
+langchain-experimental
+langchain-text-splitters
+langchain-google-genai
+langchain-groq
+langchain-huggingface
+python-dotenv
+jupyterlab
+streamlit
+pydantic
+numpy
+scikit-learn
+sentence-transformers
+faiss-cpu
+chromadb
+pypdf
+beautifulsoup4
+requests
+youtube-transcript-api
+ddgs
+google-generativeai
+wikipedia
